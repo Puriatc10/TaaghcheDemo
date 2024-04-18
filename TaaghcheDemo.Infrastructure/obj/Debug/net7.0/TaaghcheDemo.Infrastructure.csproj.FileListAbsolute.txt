@@ -1,0 +1,11 @@
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\bin\Debug\net7.0\TaaghcheDemo.Infrastructure.deps.json
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\bin\Debug\net7.0\TaaghcheDemo.Infrastructure.dll
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\bin\Debug\net7.0\TaaghcheDemo.Infrastructure.pdb
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\TaaghcheDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\TaaghcheDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\TaaghcheDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\TaaghcheDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\TaaghcheDemo.Infrastructure.dll
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\refint\TaaghcheDemo.Infrastructure.dll
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\TaaghcheDemo.Infrastructure.pdb
+C:\Users\puria\source\repos\TaaghcheDemo\TaaghcheDemo.Infrastructure\obj\Debug\net7.0\ref\TaaghcheDemo.Infrastructure.dll

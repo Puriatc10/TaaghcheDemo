@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo\\TaaghcheDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\MessagingContract\\MessagingContract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\MessagingContract\\MessagingContract.csproj",
+        "projectName": "MessagingContract",
+        "projectPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\MessagingContract\\MessagingContract.csproj",
+        "packagesPath": "C:\\Users\\puria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\MessagingContract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\puria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo.Infrastructure\\TaaghcheDemo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo.Infrastructure\\TaaghcheDemo.Infrastructure.csproj",
+        "projectName": "TaaghcheDemo.Infrastructure",
+        "projectPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo.Infrastructure\\TaaghcheDemo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\puria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\puria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo\\TaaghcheDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo\\TaaghcheDemo.csproj",
+        "projectName": "TaaghcheDemo",
+        "projectPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo\\TaaghcheDemo.csproj",
+        "packagesPath": "C:\\Users\\puria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\puria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\MessagingContract\\MessagingContract.csproj": {
+                "projectPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\MessagingContract\\MessagingContract.csproj"
+              },
+              "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo.Infrastructure\\TaaghcheDemo.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\puria\\source\\repos\\TaaghcheDemo\\TaaghcheDemo.Infrastructure\\TaaghcheDemo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

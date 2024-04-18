@@ -1,0 +1,11 @@
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\bin\Debug\net7.0\MessagingContract.deps.json
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\bin\Debug\net7.0\MessagingContract.dll
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\bin\Debug\net7.0\MessagingContract.pdb
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\MessagingContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\MessagingContract.AssemblyInfoInputs.cache
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\MessagingContract.AssemblyInfo.cs
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\MessagingContract.csproj.CoreCompileInputs.cache
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\MessagingContract.dll
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\refint\MessagingContract.dll
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\MessagingContract.pdb
+C:\Users\puria\source\repos\TaaghcheDemo\MessagingContract\obj\Debug\net7.0\ref\MessagingContract.dll
